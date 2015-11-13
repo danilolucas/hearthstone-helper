@@ -1,1 +1,1 @@
-# HearthStone Helper (Native Android)
+# HearthStone Helper (Native Android App)
